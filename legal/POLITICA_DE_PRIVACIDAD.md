@@ -51,9 +51,9 @@ Esta Política de Privacidad describe cómo el bot de Discord Nova (el "Bot") re
 * Esta Política de Privacidad puede ser modificada en cualquier momento.
 * Se notificará a los usuarios sobre cualquier cambio en la Política de Privacidad.
 
-## 8.  Contacto: 
+## Información de contacto: 
 
-# [Discord](https://discord.com/invite/xvnZYKDkTn)
+* [Discord](https://discord.gg/xvnZYKDkTn)
 
 Si tiene alguna pregunta sobre esta Política de Privacidad, por favor contactese conmigo en nuestro Discord de soporte.
 
