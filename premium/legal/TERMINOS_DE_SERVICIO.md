@@ -26,7 +26,7 @@ Independientemente de que adquiera un plan, está completamente prohibido usar e
     * Nombre del Bot (sujeto a la aprobación de Discord)
     * Imagen del Bot (sujeto a la aprobación de Discord)
     * Emojis utilizados en los botones de las sugerencias
-    * Entre otros (mas informacion disponible [aqui](https://github.com/Diiegoof/Nova/premium/CARACTERISTICAS_PREMIUM.md))
+    * Entre otros (mas informacion disponible [aqui](https://github.com/Diiegoof/Nova/blob/main/premium/CARACTERISTICAS_PREMIUM.md))
 
 * El cliente es responsable de que la apariencia personalizada del Bot cumpla con las Directrices de la Comunidad de Discord.
 * El desarrollador del Bot se reserva el derecho de rechazar cualquier personalización que considere inapropiada o que viole las Condiciones de Servicio de Discord.
