@@ -1,8 +1,8 @@
-# Términos de Servicio del Bot de Sugerencias
+# Términos de Servicio del Bot Nova
 
 **Última actualización:** 16 de noviembre de 2024
 
-Estos Términos de Servicio ("Términos") rigen el uso del bot de Discord para sugerencias (el "Bot") y sus funciones. Al utilizar el Bot, usted acepta estos Términos.
+Estos Términos de Servicio ("Términos") rigen el uso del bot de Discord Nova (el "Bot") y sus funciones. Al utilizar el Bot, usted acepta estos Términos.
 
 ## 1. Uso del Bot:
 
@@ -57,6 +57,6 @@ Estos Términos de Servicio ("Términos") rigen el uso del bot de Discord para s
 
 ## Información de contacto: 
 
-* <a href="https://discord.gg/xvnZYKDkTn" target="_blank">Discord</a>
+* [Discord](https://discord.gg/xvnZYKDkTn)
 
 Si tiene alguna pregunta sobre estos Términos, por favor contactese conmigo en nuestro Discord de soporte.
