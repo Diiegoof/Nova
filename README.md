@@ -24,13 +24,18 @@ Con Nova, podrás:
 ![3](https://github.com/user-attachments/assets/f2ada431-c1b6-42df-b959-6f009ccb2f68)
 ## Comandos
 ![4](https://github.com/user-attachments/assets/2cb09efa-14c4-44d1-841d-31cc003164af)
-## Informacion
+## Información
 ![5](https://github.com/user-attachments/assets/3c80e604-037c-44c0-b662-72cc85b6f763)
 
-## Informacion extra
+## Información extra
 La ejecución de los comandos del bot está exclusivamente reservada para usuarios con permisos de administrador.
 
-## Añade a Nova a tu servidor y comienza a disfrutar de sus beneficios
+Los usuarios comunes solo tendran acceso a dejar su sugerencia y reaccionar a tales en el canal definido por el administrador.
+
+# Términos y Privacidad
+Recuerda leer nuestros [Términos de servicio](https://github.com/Diiegoof/Nova/blob/main/legal/TERMINOS_DE_SERVICIO.md) y nuestra [Política de privacidad](https://github.com/Diiegoof/Nova/blob/main/legal/POLITICA_DE_PRIVACIDAD.md) antes de usar a Nova.
+
+## ¡Añade a Nova a tu servidor y comienza a disfrutar de sus beneficios!
 * [Unir a tu servidor](https://discord.com/oauth2/authorize?client_id=1307422436609888416&permissions=8&integration_type=0&scope=applications.commands+bot)
 ## Soporte
 * [Discord](https://discord.gg/xvnZYKDkTn)
