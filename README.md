@@ -1,3 +1,23 @@
+# ¡Presentamos a Nova, el bot multiusos para Discord!
+
+Diiegoof y el equipo de Nova Developers se complacen en presentarles a Nova, un bot de Discord diseñado para mejorar la experiencia de tu servidor.  En su versión inicial, Nova incluye un sistema de sugerencias y la capacidad de crear mensajes embed con estilo.
+
+Con Nova, podrás:
+
+* **Deleitar a tus usuarios con mensajes visualmente atractivos:**  Crea anuncios, notificaciones y mensajes con formato profesional gracias a la función de embed.
+* **Facilitar la participación de la comunidad:**  Implementa un sistema de sugerencias organizado y eficiente para que tus usuarios compartan sus ideas.
+* **Disfrutar de una administración sencilla e intuitiva:**  Configura y gestiona a Nova de forma rápida y sin complicaciones.
+
+## Beneficios de usar Nova en tu servidor:
+
+* Ahorro de tiempo en la gestión de sugerencias.
+* Mayor organización y visibilidad de las sugerencias.
+* Incremento en la participación de la comunidad.
+* Mejora en la comunicación con mensajes embed con estilo.
+* Facilidad de uso y configuración.
+
+# El objetivo de Nova
+
 ## Sugerencias
 ![2](https://github.com/user-attachments/assets/86fcde52-4bed-4881-be39-0323d25e3e24)
 ## Embeds
@@ -6,6 +26,12 @@
 ![4](https://github.com/user-attachments/assets/2cb09efa-14c4-44d1-841d-31cc003164af)
 ## Informacion
 ![5](https://github.com/user-attachments/assets/3c80e604-037c-44c0-b662-72cc85b6f763)
+
+## Informacion extra
+La ejecución de los comandos del bot está exclusivamente reservada para usuarios con permisos de administrador.
+
+## Añade a Nova a tu servidor y comienza a disfrutar de sus beneficios
+* [Unir a tu servidor](https://discord.com/oauth2/authorize?client_id=1307422436609888416&permissions=8&integration_type=0&scope=bot)
 ## Soporte
 * [Discord](https://discord.gg/xvnZYKDkTn)
 
