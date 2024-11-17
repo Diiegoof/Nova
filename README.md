@@ -31,7 +31,7 @@ Con Nova, podrás:
 La ejecución de los comandos del bot está exclusivamente reservada para usuarios con permisos de administrador.
 
 ## Añade a Nova a tu servidor y comienza a disfrutar de sus beneficios
-* [Unir a tu servidor](https://discord.com/oauth2/authorize?client_id=1307422436609888416&permissions=8&integration_type=0&scope=bot)
+* [Unir a tu servidor](https://discord.com/oauth2/authorize?client_id=1307422436609888416&permissions=8&integration_type=0&scope=applications.commands+bot)
 ## Soporte
 * [Discord](https://discord.gg/xvnZYKDkTn)
 
