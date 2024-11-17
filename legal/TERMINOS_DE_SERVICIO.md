@@ -55,6 +55,6 @@ Estos Términos de Servicio ("Términos") rigen el uso del bot de Discord para s
 **Al utilizar el Bot, usted acepta estos Términos de Servicio.**
 
 
-## Información de contacto: https://discord.gg/xvnZYKDkTn
+## Información de contacto: [Discord](https://discord.gg/xvnZYKDkTn){:target="_blank"}
 
 Si tiene alguna pregunta sobre estos Términos, por favor contactese conmigo en nuestro Discord de soporte.
