@@ -1,6 +1,6 @@
 # Política de Privacidad del Bot Nova
 
-**Última actualización:** 16 de noviembre de 2024
+**Última actualización:** 19 de noviembre de 2024
 
 Esta Política de Privacidad describe cómo el bot de Discord Nova (el "Bot") recopila, utiliza y comparte la información de los usuarios.
 
@@ -12,17 +12,29 @@ Esta Política de Privacidad describe cómo el bot de Discord Nova (el "Bot") re
     * Contenido de las sugerencias enviadas
     * Votos a favor o en contra de las sugerencias
     * Estado de las sugerencias (pendiente, aceptada, rechazada)
-    * Mensajes enviados con el comando `/embed` (incluyendo título, descripción, color, imágenes y canal)
     * ID del servidor
     * ID del canal de sugerencias configurado
+    * **Información sobre las sugerencias:**
+        * ID del mensaje de la sugerencia
+        * ID del canal donde se envió la sugerencia
+        * ID del autor de la sugerencia
+    * **Datos adicionales de las sugerencias:**
+        * Nombre del servidor donde se envió la sugerencia
+        * Fecha y hora en que se envió la sugerencia
+    * **Información de los servidores:**
+        * Nombre del servidor
+        * ID del servidor
+        * ID del dueño del servidor
+
 
 ## 2. Cómo usamos la información:
 
 * La información recopilada se utiliza para:
     * Facilitar la gestión de sugerencias en los servidores de Discord.
-    * Permitir a los usuarios enviar, votar y ver el estado de las sugerencias.
-    * Permitir a los administradores del servidor gestionar las sugerencias y enviar mensajes embed.
     * Mejorar el Bot y sus funciones.
+    * **Mantener un registro de las sugerencias y sus detalles.**
+    * **Registrar la información de los servidores a los que se une el bot.**
+    * **Tomar medidas en caso de que se incumpla alguna de las [Normas para el uso de Nova](https://github.com/Diiegoof/Nova/blob/main/NORMAS_DE_NOVA.md) o de las [Directrices de la comunidad de Discord](https://discord.com/guidelines) al usar el bot.**
 
 ## 3. Compartir información:
 
@@ -30,7 +42,6 @@ Esta Política de Privacidad describe cómo el bot de Discord Nova (el "Bot") re
 
 ## 4.  Almacenamiento de datos:
 
-* La información recopilada se almacena en una base de datos utilizando Enmap.
 * La información se almacena de forma segura y se toman medidas para protegerla de accesos no autorizados.
 
 ## 5.  Seguridad:
