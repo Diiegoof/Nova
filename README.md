@@ -38,5 +38,5 @@ Recuerda leer nuestros [Términos de servicio](https://github.com/Diiegoof/Nova/
 ## ¡Añade a Nova a tu servidor y comienza a disfrutar de sus beneficios!
 * [Unir a tu servidor](https://discord.com/oauth2/authorize?client_id=1307422436609888416&permissions=8&integration_type=0&scope=applications.commands+bot)
 ## Soporte
-* [Discord](https://discord.gg/xvnZYKDkTn)
+* [Discord](https://discord.gg/u7fsUvCFc9)
 
